@@ -1,6 +1,10 @@
 nihao
 1244kdfkbntjknb 
 
-
+ceate a new is quick and simple
+<<<<<<< HEAD
 create a new  branch is quick & simple
+=======
+create a new  branch is quick AND simple
+>>>>>>> feature1
 
