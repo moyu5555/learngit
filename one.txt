@@ -4,6 +4,4 @@ nihao
 
 create a new  branch is quick AND simple........
 
-this is me
-
-git is a free software
+thurday
